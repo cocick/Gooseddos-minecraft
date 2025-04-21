@@ -1,0 +1,19 @@
+{
+  "name": "brrbrrpatapim",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4",
+    "mineflayer": "^4.25.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "nbt": "^0.8.1",
+    "prismarine-nbt": "^2.7.0"
+  }
+}
